@@ -5,7 +5,7 @@ public class sumDigit {
 
     public static int sumDigits(int number) {
         int sum = 0;
-        if (number < 10) {
+       /* if (number < 10) {
             return -1;
         }
             while (number != 0) {
@@ -19,7 +19,7 @@ public class sumDigit {
 //        return 0;
         else if (number <= 0 && number <= 9) {
             return -1;
-        }
+        }*/
         return 0;
 
     }
